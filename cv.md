@@ -27,7 +27,7 @@ for(let i=1; i<=a; i++){
 }
 
 ## Work experience:
-Nothing yet…
+Nothing yet..
 
 ## Education and courses:
 1. platform.tutoritech.com courses
