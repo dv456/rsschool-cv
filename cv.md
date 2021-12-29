@@ -29,7 +29,7 @@ Nothing yet..
 
 ## Education and courses:
 1. platform.tutoritech.com courses
-2.JS, CSS, HTML, Git video courses on YouTube 
+2. JS, CSS, HTML, Git video courses on YouTube 
 
 ## Language:
 * English A2
